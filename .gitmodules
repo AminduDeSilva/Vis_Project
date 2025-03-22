@@ -1,0 +1,3 @@
+[submodule "srilanka"]
+	path = srilanka
+	url = https://github.com/Desiam321/srilanka.git

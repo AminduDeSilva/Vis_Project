@@ -1,12 +1,12 @@
 # Sri Lanka's Journey: A Comparative Study with Germany
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url-here.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-url-here.streamlit.app/](https://visproject-wrdzidkcglvterjwqprntr.streamlit.app/))
 
 An interactive data visualization application that tells the story of Sri Lanka's socio-economic journey over the past 25 years, comparing it with Germany to provide insights into their respective economic and social landscapes.
 
 ## 🌟 Project Overview
 
-This project explores Sri Lanka's resilience through various challenges including natural disasters, civil conflicts, terrorist attacks, and the COVID-19 pandemic. Through interactive visualizations, we compare key indicators between Sri Lanka and Germany, including:
+This project explores Sri Lanka's resilience through various challenges, including natural disasters, civil conflicts, terrorist attacks, and the COVID-19 pandemic. Through interactive visualizations, we compare key indicators between Sri Lanka and Germany, including:
 
 - **Economic Indicators**: GDP, Inflation rates
 - **Social Metrics**: Happiness index, Quality of life
@@ -15,7 +15,7 @@ This project explores Sri Lanka's resilience through various challenges includin
 
 ## 🚀 Live Demo
 
-Visit the live application: [Sri Lanka's Journey](https://your-app-url-here.streamlit.app/)
+Visit the live application: [Sri Lanka's Journey]([https://your-app-url-here.streamlit.app](https://visproject-wrdzidkcglvterjwqprntr.streamlit.app/)
 
 ## 📊 Features
 
@@ -136,11 +136,6 @@ See [`requirements.txt`](requirements.txt) for complete list.
 
 This project was developed as part of the "Storytelling with Interactive Data Visualizations" course at TH Rosenheim.
 
-### Team Members
-- [Your Name] - Data Analysis & Visualization
-- [Team Member 2] - Backend Development
-- [Team Member 3] - UI/UX Design
-- [Team Member 4] - Data Collection & Processing
 
 ### Development Workflow
 
@@ -165,21 +160,6 @@ The application can be configured through:
 - [`definitions.py`](srilanka/Code/definitions.py): Colors, constants, and UI components
 - [`.streamlit/config.toml`](.streamlit/config.toml): Streamlit-specific settings
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- TH Rosenheim - University of Applied Sciences
-- Course: Storytelling with Interactive Data Visualizations
-- Data sources: World Bank, Our World in Data, Sri Lanka Tourism Board
-
-## 📞 Contact
-
-- **Project Repository**: [GitHub](https://github.com/yourusername/Vis_Project)
-- **Issues**: [Report bugs or request features](https://github.com/yourusername/Vis_Project/issues)
-- **Discussions**: [Join the conversation](https://github.com/yourusername/Vis_Project/discussions)
 
 ---
 

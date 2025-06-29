@@ -14,7 +14,7 @@ This project explores Sri Lanka's resilience through various challenges includin
 
 ## 🚀 Live Demo
 
-Visit the live application: [Sri Lanka's Journey](https://your-app-url-here.streamlit.app/)
+Visit the live application: [Sri Lanka's Journey](visproject-c5hjgjg9wm6t3oleevh7fy.streamlit.app/)
 
 ## 📊 Features
 

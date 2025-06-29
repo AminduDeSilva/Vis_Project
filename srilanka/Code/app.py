@@ -5,6 +5,14 @@ from data_utils import load_data, load_sl_events, load_plot_descriptions
 from plot_utils import plot_panel1, plot_panel2
 from definitions import add_heading_and_intro, add_summary
 
+# Configure Streamlit page
+st.set_page_config(
+    page_title="Sri Lanka's Journey: A comparative study with Germany",
+    page_icon="🇱🇰",
+    layout='centered',
+    initial_sidebar_state="collapsed"
+)
+
 
 data_dir = Path(__file__).parent.parent / 'data'
 sl_events_path = data_dir / 'sl_events.json'

@@ -6,13 +6,6 @@ import streamlit as st
 from definitions import COLORS
 
 
-st.set_page_config(
-    page_title="Sri Lanka's Journey: A comparative study with Germany",
-    page_icon="🇱🇰",
-    layout='centered', # or wide
-    initial_sidebar_state="collapsed")
-
-
 def plot_panel1(data: dict[str, dict[str, pd.DataFrame]], sl_events: dict[int, dict[str, str]]) -> None:
     st.markdown(f"""
         <h1 style='color:{COLORS['Sri Lanka']};'>

@@ -1,6 +1,6 @@
 # Sri Lanka's Journey: A Comparative Study with Germany
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-url-here.streamlit.app/](https://visproject-wrdzidkcglvterjwqprntr.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://visproject-wrdzidkcglvterjwqprntr.streamlit.app/)
 
 An interactive data visualization application that tells the story of Sri Lanka's socio-economic journey over the past 25 years, comparing it with Germany to provide insights into their respective economic and social landscapes.
 
@@ -15,7 +15,7 @@ This project explores Sri Lanka's resilience through various challenges, includi
 
 ## 🚀 Live Demo
 
-Visit the live application: [Sri Lanka's Journey]([https://your-app-url-here.streamlit.app](https://visproject-wrdzidkcglvterjwqprntr.streamlit.app/)
+Visit the live application: [Sri Lanka's Journey](https://visproject-wrdzidkcglvterjwqprntr.streamlit.app/)
 
 ## 📊 Features
 

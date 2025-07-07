@@ -163,6 +163,6 @@ The application can be configured through:
 
 ---
 
-**Made with ❤️ at TH Rosenheim**
+**Sri Lanka - The Pearl of the Indian Ocean.** 🇱🇰
 
-*Sri Lanka - The Pearl of the Indian Ocean* 🇱🇰
+*This project was completed as a group project for the Storytelling with Interactive Data Visualizations coursework at TH Rosenheim* 

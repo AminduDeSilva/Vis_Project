@@ -4,7 +4,7 @@
 
 An interactive data visualization application that tells the story of Sri Lanka's socio-economic journey over the past 25 years, comparing it with Germany to provide insights into their respective economic and social landscapes.
 
-## 🌟 Project Overview
+## Project Overview
 
 This project explores Sri Lanka's resilience through various challenges, including natural disasters, civil conflicts, terrorist attacks, and the COVID-19 pandemic. Through interactive visualizations, we compare key indicators between Sri Lanka and Germany, including:
 
@@ -13,11 +13,11 @@ This project explores Sri Lanka's resilience through various challenges, includi
 - **Tourism Impact**: Visitor arrivals and industry growth
 - **Historical Events**: Impact of major incidents on national development
 
-## 🚀 Live Demo
+## Live Demo
 
 Visit the live application: [Sri Lanka's Journey](https://visproject-wrdzidkcglvterjwqprntr.streamlit.app/)
 
-## 📊 Features
+## Features
 
 - **Interactive Visualizations**: Built with Plotly for dynamic data exploration
 - **Comparative Analysis**: Side-by-side comparison between Sri Lanka and Germany
@@ -25,7 +25,7 @@ Visit the live application: [Sri Lanka's Journey](https://visproject-wrdzidkcglv
 - **Multiple Data Sources**: Comprehensive datasets covering 25+ years
 - **Responsive Design**: Works on desktop and mobile devices
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 
@@ -61,7 +61,7 @@ cd srilanka
 streamlit run "Code/Sri Lanka's Journey.py"
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Vis_Project/
@@ -88,7 +88,7 @@ Vis_Project/
 │   └── requirements.txt          # Python dependencies
 ```
 
-## 📈 Data Sources
+## Data Sources
 
 The project uses multiple datasets spanning 25+ years:
 
@@ -99,7 +99,7 @@ The project uses multiple datasets spanning 25+ years:
 
 All data sources are documented in the respective data subdirectories.
 
-## 🎨 Technologies Used
+## Technologies Used
 
 - **Frontend**: Streamlit
 - **Data Visualization**: Plotly, Matplotlib, Seaborn
@@ -107,7 +107,7 @@ All data sources are documented in the respective data subdirectories.
 - **Deployment**: Docker, Streamlit Cloud
 - **Development**: Jupyter Notebooks
 
-## 📋 Dependencies
+## Dependencies
 
 ```
 streamlit>=1.36.0
@@ -122,7 +122,7 @@ xlrd>=2.0.0
 
 See [`requirements.txt`](requirements.txt) for complete list.
 
-## 🚀 Deployment
+## Deployment
 
 ### Deploy to Streamlit Cloud
 
@@ -132,7 +132,7 @@ See [`requirements.txt`](requirements.txt) for complete list.
 4. Set main file path: `srilanka/Code/Sri Lanka's Journey.py`
 5. Deploy!
 
-## 🤝 Contributing
+## Contributing
 
 This project was developed as part of the "Storytelling with Interactive Data Visualizations" course at TH Rosenheim.
 
@@ -145,7 +145,7 @@ This project was developed as part of the "Storytelling with Interactive Data Vi
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📖 Usage
+## Usage
 
 1. **Main Dashboard**: Overview of Sri Lanka's journey with key metrics
 2. **Comparative Analysis**: Side-by-side comparison with Germany
@@ -154,7 +154,7 @@ This project was developed as part of the "Storytelling with Interactive Data Vi
 
 Navigate through the application using the sidebar menu.
 
-## 🔧 Configuration
+## Configuration
 
 The application can be configured through:
 - [`definitions.py`](srilanka/Code/definitions.py): Colors, constants, and UI components
@@ -163,6 +163,6 @@ The application can be configured through:
 
 ---
 
-**Sri Lanka - The Pearl of the Indian Ocean.** 🇱🇰
+**Sri Lanka 🇱🇰 & Comparative Study with Germany 🇩🇪 ** 
 
 *This project was completed as a group project for the Storytelling with Interactive Data Visualizations coursework at TH Rosenheim* 
